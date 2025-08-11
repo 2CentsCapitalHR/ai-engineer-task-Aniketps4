@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 readme_content = """
 # ADGM Corporate Agent (Colab)
 
@@ -44,3 +45,6 @@ This project processes .docx files, verifies compliance with ADGM regulations, a
 with open("README.md", "w") as f:
     f.write(readme_content)
 files.download("README.md")
+=======
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/vgbm4cZ0)
+>>>>>>> 707a0611d0043e05a554a309617abc7b7af7612b
