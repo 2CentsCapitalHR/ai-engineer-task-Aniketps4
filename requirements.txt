@@ -1,0 +1,11 @@
+python-docx
+docx2txt
+langchain
+gradio
+PyPDF2
+sentence-transformers
+langchain-google-genai
+google-generativeai
+langchain-community
+unstructured[docx]
+numpy

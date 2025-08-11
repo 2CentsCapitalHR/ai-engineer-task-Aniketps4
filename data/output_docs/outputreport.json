@@ -1,0 +1,17 @@
+{
+  "process": "Partial Company Incorporation",
+  "documents_uploaded": 1,
+  "required_documents": 2,
+  "missing_document": [
+    "Memorandum of Association"
+  ],
+  "issues_found": [
+    {
+      "document": "Articles of Association",
+      "section": "Jurisdiction Clause",
+      "issue": "Jurisdiction clause does not specify ADGM",
+      "severity": "High",
+      "suggestion": "Update to ADGM Courts per Companies Regulations 2020, Art. 6"
+    }
+  ]
+}
